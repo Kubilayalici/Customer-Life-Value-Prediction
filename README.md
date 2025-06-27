@@ -1,1 +1,1 @@
-## Customer Life Value Prediction
+## Customer Lifetime Value Prediction
